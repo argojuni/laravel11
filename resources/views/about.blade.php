@@ -12,6 +12,6 @@
     <a href="/about">About</a>
     <h1>Halaman About</h1>
     <h3>Owner : {{ $nama }}</h3>
-    <img src="img/dprdlogo.png" alt="DPRD KAB. BLITAR" width="200">
+    <img src="img/dprdlogo.png" alt="DPRD KAB. BLITAR" width="300">
 </body>
 </html>
